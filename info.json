@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5c5c003b12e1743eaa5c27d8900a450356219b85",
+    "author": "Sebastian Fox <sebastian.fox@phe.gov.uk>",
+    "time": "2021-07-15 10:43:37",
+    "files": 2,
+    "merge": false,
+    "message": "no changes, but done for testing on internal systems\n"
+  },
+  "remote": "https://github.com/ropensci/fingertipsR",
+  "pkg": "fingertipsR"
+}

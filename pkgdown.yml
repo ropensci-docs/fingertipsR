@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  lifeExpectancy: lifeExpectancy.html
+  selectIndicatorsRedRed: selectIndicatorsRedRed.html
+last_built: 2021-07-23T07:16Z
+urls:
+  reference: https://docs.ropensci.org/fingertipsR/reference
+  article: https://docs.ropensci.org/fingertipsR/articles
+
