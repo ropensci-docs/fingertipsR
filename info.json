@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "309c4aecbb67302436422eff5f5996df60b44e41",
+    "author": "annabelwestermann96 <110179376+annabelwestermann96@users.noreply.github.com>",
+    "time": "2024-02-22 13:18:10",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #118 from ropensci/test-extract-fix\n\nUpdate test-extract.R"
+  },
+  "repo": "https://github.com/ropensci/fingertipsR",
+  "pkg": "fingertipsR"
+}
