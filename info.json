@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "fb4851919000ca75a2ac5a7a95abd5e1571d92ec",
+    "author": "Hadley Nanayakkara <112709236+HadleyBN@users.noreply.github.com>",
+    "time": "2025-10-16T09:57:18Z",
+    "files": 23,
+    "merge": true,
+    "message": "Merge pull request #130 from ropensci/dev\n\nDev"
+  },
+  "repo": "https://github.com/ropensci/fingertipsR",
+  "pkg": "fingertipsR",
+  "time": "2026-08-30T07:29:23Z"
+}
